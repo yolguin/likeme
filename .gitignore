@@ -1,0 +1,14 @@
+# Ignorar dependencias
+node_modules/
+package-lock.json
+
+# Ignorar archivos de configuración del entorno
+.env
+
+# Ignorar archivos de compilación
+dist/
+build/
+
+# Ignorar caché de logs y sistema
+*.log
+.DS_Store
